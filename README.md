@@ -1,2 +1,24 @@
 # Dying Light Multi Hack
 
+[!] for educational perposes only !!!
+![Dying Light Multi Hack](image.png)
+
+## Description
+Welcome to my Dying Light Multi Hack project! This is a simple C# multi hack I created to explore GUI Windows Forms and game hacking. It was an exciting journey, and I learned a lot through the process. This hack showcases various techniques and methods used to modify and exploit game mechanics.
+
+## Features
+* Fly Hack
+* Teleportation
+
+## Usage
+To use this hack, follow these steps:
+1. Clone the repository:
+```
+git clone https://github.com/yourusername/dying-light-multi-hack.git
+cd dying-light-multi-hack
+```
+2. Compile the source code (if applicable):
+
+3. Open the project in your preferred C# IDE (e.g., Visual Studio).
+4. Build the solution to compile the source code.
+5. Run the hack.
