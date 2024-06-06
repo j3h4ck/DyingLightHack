@@ -1,0 +1,13 @@
+C:\Users\Jehad Anbdagga\source\repos\dyinglight\dyinglight\bin\Debug\dyinglight.exe.config
+C:\Users\Jehad Anbdagga\source\repos\dyinglight\dyinglight\bin\Debug\dyinglight.exe
+C:\Users\Jehad Anbdagga\source\repos\dyinglight\dyinglight\bin\Debug\dyinglight.pdb
+C:\Users\Jehad Anbdagga\source\repos\dyinglight\dyinglight\obj\Debug\dyinglight.csproj.AssemblyReference.cache
+C:\Users\Jehad Anbdagga\source\repos\dyinglight\dyinglight\obj\Debug\dyinglight.Form1.resources
+C:\Users\Jehad Anbdagga\source\repos\dyinglight\dyinglight\obj\Debug\dyinglight.Properties.Resources.resources
+C:\Users\Jehad Anbdagga\source\repos\dyinglight\dyinglight\obj\Debug\dyinglight.csproj.GenerateResource.cache
+C:\Users\Jehad Anbdagga\source\repos\dyinglight\dyinglight\obj\Debug\dyinglight.csproj.CoreCompileInputs.cache
+C:\Users\Jehad Anbdagga\source\repos\dyinglight\dyinglight\obj\Debug\dyinglight.exe
+C:\Users\Jehad Anbdagga\source\repos\dyinglight\dyinglight\obj\Debug\dyinglight.pdb
+C:\Users\Jehad Anbdagga\source\repos\dyinglight\dyinglight\bin\Debug\Memory.dll
+C:\Users\Jehad Anbdagga\source\repos\dyinglight\dyinglight\bin\Debug\Memory.xml
+C:\Users\Jehad Anbdagga\source\repos\dyinglight\dyinglight\obj\Debug\dyinglight.csproj.CopyComplete

@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Desktop\dyinglight\dyinglight\bin\x64\Release\dyinglight.exe.config
+C:\Users\Lenovo\Desktop\dyinglight\dyinglight\bin\x64\Release\dyinglight.exe
+C:\Users\Lenovo\Desktop\dyinglight\dyinglight\bin\x64\Release\dyinglight.pdb
+C:\Users\Lenovo\Desktop\dyinglight\dyinglight\bin\x64\Release\Memory.dll
+C:\Users\Lenovo\Desktop\dyinglight\dyinglight\bin\x64\Release\Memory.xml
+C:\Users\Lenovo\Desktop\dyinglight\dyinglight\obj\x64\Release\dyinglight.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\dyinglight\dyinglight\obj\x64\Release\dyinglight.Form1.resources
+C:\Users\Lenovo\Desktop\dyinglight\dyinglight\obj\x64\Release\dyinglight.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\dyinglight\dyinglight\obj\x64\Release\dyinglight.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\dyinglight\dyinglight\obj\x64\Release\dyinglight.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\dyinglight\dyinglight\obj\x64\Release\dyinglight.csproj.Up2Date
+C:\Users\Lenovo\Desktop\dyinglight\dyinglight\obj\x64\Release\dyinglight.exe
+C:\Users\Lenovo\Desktop\dyinglight\dyinglight\obj\x64\Release\dyinglight.pdb
