@@ -14,7 +14,7 @@ Welcome to my Dying Light Multi Hack project! This is a simple C# multi hack I c
 To use this hack, follow these steps:
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/dying-light-multi-hack.git
+git clone https://github.com/j3h4ck/dying-light-multi-hack.git
 cd dying-light-multi-hack
 ```
 2. Compile the source code (if applicable):
